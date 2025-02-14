@@ -104,7 +104,7 @@
     "gulp": "^4.0.2",
     "husky": "^8.0.3",
     "nodemon": "^3.1.9",
-    "prettier": "^2.8.8",
+    "prettier": "^3.5.1",
     "pretty-quick": "^3.3.1",
     "release-it": "^16.3.0",
     "shx": "^0.3.4",
